@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I am a Systems Engineer with a solid foundation in software development and design, committed to agile practices and with a continuous focus on ensuring the quality and robust architecture of the solutions I design.
+Beyond my technical skills, I am currently studying a specialization in Management for Organizational Development, which complements my activity planning and leadership skills, making it ideal for environments where coordination and strategy play an essential role.
+
+## I’m currently working on ...
+- A web page to facilitate the use of inventories made with ruby on rails.
+- A sudoku app for SmartWatch (WearOs).
+
+## I’m looking to collaborate on OpenSource projects.
+
+
+
 <!--
 **Glitch-art/Glitch-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
