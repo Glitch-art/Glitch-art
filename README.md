@@ -4,6 +4,7 @@ I am a Systems Engineer with a solid foundation in software development and desi
 Beyond my technical skills, I am currently studying a specialization in Management for Organizational Development, which complements my activity planning and leadership skills, making it ideal for environments where coordination and strategy play an essential role.
 
 ## I’m currently working on ...
+- A web page to generate educative storytellings.
 - A web page to facilitate the use of inventories made with ruby on rails.
 - A sudoku app for SmartWatch (WearOs).
 
